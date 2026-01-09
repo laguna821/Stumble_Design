@@ -5,6 +5,10 @@ references into an Obsidian-compatible vault. It blends random discovery with a
 minimal library and notes workflow, while keeping untrusted web content in a
 sandboxed view.
 
+![Image](https://github.com/user-attachments/assets/38a6ebbf-9475-47b7-a39b-826ac333e6b2)
+
+![Image](https://github.com/user-attachments/assets/38d101a6-c969-484c-bcc9-1a3a573fb6de)
+
 ## What you can do
 - Discover: Load a random site in a sandboxed WebContentsView.
 - Save: Capture URL, title, screenshot, tags, and notes into a vault.
